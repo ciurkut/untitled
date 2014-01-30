@@ -1,1 +1,1 @@
-__author__ = 'ciurkut'
+print "hello"
